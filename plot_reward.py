@@ -1,12 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul  7 13:18:23 2016
-
-@author: steven
+This script takes episodes stored in episode_reward.txt and displays the learning curve.
 """
-import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.pyplot as plt
 lines = np.loadtxt("episode_reward.txt", comments="#", delimiter="\n", unpack=False)
-
 plt.plot(lines)
 plt.show()
