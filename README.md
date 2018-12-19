@@ -3,7 +3,7 @@ Implementation of Recurrent Deterministic Policy Gradient (https://arxiv.org/abs
 
 ## How to use
 ```
-git clone https://github.com/sharoff8/RDPG.git
+git clone https://github.com/stevenpjg/RDPG.git
 cd RDPG
 python main.py
 ```
