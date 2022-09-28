@@ -2,11 +2,12 @@
 Implementation of Recurrent Deterministic Policy Gradient (https://arxiv.org/abs/1512.04455).) in Tensorflow
 
 ## How to use
+
 ```
-git clone https://github.com/stevenpjg/RDPG.git
-cd RDPG
 python main.py
+# Run main.py file based on your IDE/ terminal
 ```
+
 ## Dependencies
 - Tensorflow
 - OpenAi gym
