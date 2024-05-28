@@ -1,4 +1,4 @@
-# RDPG
+# RDPG - Recurrent Deterministic Policy Gradient - Deep Reinforcement Learning via Recurrent Neural Networks
 Implementation of Recurrent Deterministic Policy Gradient (https://arxiv.org/abs/1512.04455).) in Tensorflow
 
 ## How to use
